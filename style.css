@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 100px;
+}
+.top-pic{
+    height: 100px;
+    width: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
+
+}
+.status{
+    margin: 0 20px;
+    padding: 22px;
+    color: white;
+    border-radius: 10px;
+}
+#tranjection-area{
+    display: none;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.deposit{
+    background-color:slateblue ;
+}
+.balance{
+    background-color: orange;
+}
